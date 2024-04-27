@@ -1,0 +1,10 @@
+DevOps
+DevOps is nothing but a methodology adopted for the automation, quick delivery, of application or process with the help of different tools like Jenkins
+Ansile, Docker, Kubernetes, Git-hub, Git, Linux scripts, cloud platforms like AWS, Azure, Google-Cloud. 
+
+DevOps focuses on both development and Operatins part as the name suggests. 
+Here Jenkins plays an important role for continuous integration and continuous delivery or Deployment (CI/CD).
+unlike the traditional methods like "Waterfall Mehodology" here the focus is to deliver the code and deploy easily without much hassle.
+
+
+
